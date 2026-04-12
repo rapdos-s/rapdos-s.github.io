@@ -10,6 +10,17 @@ Personal portfolio built with `React` and `TypeScript`, styled with `98.css`.
 
 ## Checklist
 
-- [x] Hello World  
-- [ ] Wallpaper  
-- [ ] Desktop Icons  
+- [x] Deploy a simple Hello World in HTML
+- [ ] Initialize project with Vite
+- [ ] Configure Vite base path for GitHub Pages
+- [ ] Add React to the project
+- [ ] Add TypeScript support
+- [ ] Clean default files and create basic structure
+- [ ] Install and import 98.css
+- [ ] Create base App layout
+- [ ] Create Desktop component (container)
+- [ ] Create Wallpaper component
+- [ ] Apply wallpaper to Desktop
+- [ ] Create DesktopIcon component
+- [ ] Create DesktopIconGrid component
+- [ ] Render icons on Desktop
