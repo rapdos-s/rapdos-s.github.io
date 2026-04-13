@@ -11,6 +11,7 @@ Personal portfolio built with `React` and `TypeScript`, styled with `98.css`.
 ## Checklist
 
 - [x] Deploy a simple Hello World in HTML
+- [x] Add a favicon
 - [ ] Initialize project with Vite
 - [ ] Configure Vite base path for GitHub Pages
 - [ ] Add React to the project
