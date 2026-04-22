@@ -1,10 +1,10 @@
 # rapdos-s.github.io
-Personal portfolio built with `Vue` and `TypeScript`, styled with `98.css`.
+Personal portfolio built with `React` and `TypeScript`, styled with `98.css`.
 
 ## Stack
 
-`Vue` UI framework for building components  
-`TypeScript` Static typing for JavaScript  
-`Vite` Development server and build tool  
-`Pinia` State management  
+`React` UI library for building user interfaces using a component-based model
+`TypeScript` Static typing for JavaScript
+`Vite` Development server and build tool
+`Pinia` State management
 `98.css` Retro Windows-style CSS framework

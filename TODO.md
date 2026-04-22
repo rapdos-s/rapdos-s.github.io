@@ -2,9 +2,10 @@
 
 - [x] Deploy a simple Hello World in HTML
 - [x] Add a favicon
+- [x] Create a docker structure compatible with github pages
 
-- [ ] Initialize project with Vite (Vue + TypeScript)
-- [ ] Run dev server and verify page loads
+- [x] Initialize project with Vite (React + TypeScript)
+- [x] Run dev server and verify page loads
 - [ ] Configure Vite base path for GitHub Pages
 - [ ] Build project and test preview
 
