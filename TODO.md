@@ -6,21 +6,21 @@
 
 - [x] Initialize project with Vite (React + TypeScript)
 - [x] Run dev server and verify page loads
-- [ ] Configure Vite base path for GitHub Pages
-- [ ] Build project and test preview
+- [x] Configure Vite base path for GitHub Pages
+- [x] Build project and test preview
 
-- [ ] Clean default files
-- [ ] Create basic folder structure
-- [ ] Verify app still renders
+- [x] Clean default files
+- [x] Create basic folder structure
+- [x] Verify app still renders
 
-- [ ] Install and import 98.css
-- [ ] Apply basic styles and test
+- [x] Install and import 98.css
+- [x] Apply basic styles and test
 
-- [ ] Setup Pinia
+- [x] Create base App layout
+- [x] Render layout and verify
+
+- [ ] Setup Zustand
 - [ ] Create simple store and test state
-
-- [ ] Create base App layout
-- [ ] Render layout and verify
 
 - [ ] Create Desktop component
 - [ ] Render Desktop
