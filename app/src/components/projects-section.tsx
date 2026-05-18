@@ -33,7 +33,7 @@ export function ProjectsSectionComponent(
         </h2>
       </div>
 
-      <div className="grid gap-4 md:grid-cols-3">
+      <div className="grid gap-4 md:grid-cols-4">
         {props.data[props.language].projects.map((project) => (
           <ProjectCard
             imageLabel={
